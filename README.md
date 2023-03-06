@@ -165,7 +165,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In 2020, annual MetroBike ridership continued to be low (Fig 1). In contrast to 2018 and 2019, the most popular kiosk stations were no longer on or near the UT Austin campus but instead were south of Downtown. This shift is logical because UT Austin’s courses went virtual in mid-March 2020 as a result of the Covid-19 pandemic. Virtual course work continued in the summer semester and was prevalent in the fall semester as well. It also makes sense that the most popular kiosk locations were in entertainment or parks and recreation areas as more activities moved outdoors during the pandemic.</p>
+<p>In 2020, annual MetroBike ridership continued to be low. In contrast to 2018 and 2019, the most popular kiosk stations were no longer on or near the UT Austin campus but instead were south of Downtown. This shift is logical because UT Austin’s courses went virtual in mid-March 2020 as a result of the Covid-19 pandemic. Virtual course work continued in the summer semester and was prevalent in the fall semester as well. It also makes sense that the most popular kiosk locations were in entertainment or parks and recreation areas as more activities moved outdoors during the pandemic.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
