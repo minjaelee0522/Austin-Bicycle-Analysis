@@ -133,7 +133,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For Figures 8-11, the kiosk locations are overlaid on a neighborhood map of Austin. At each kiosk station, an individual black bubble is displayed. The relative size of each bubble represents the number of trips at that particular kiosk checkout station for the given year. Additionally, the bubbles with a green circle at their center are the most popular kiosk stations for that particular year.</p>
+<p>The kiosk locations are overlaid on a neighborhood map of Austin. At each kiosk station, an individual black bubble is displayed. The relative size of each bubble represents the number of trips at that particular kiosk checkout station for the given year. Additionally, the bubbles with a green circle at their center are the most popular kiosk stations for that particular year.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
