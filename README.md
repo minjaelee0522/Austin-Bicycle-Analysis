@@ -76,7 +76,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>The annual total trips demonstrated a large surge in 2018, followed by decreases in both 2019 and 2020 (Fig. 1). Considering these results, this project sought to understand what factors may have contributed to the increase in 2018 and the decreases in 2019 and 2020.</p>
+<p>The annual total trips demonstrated a large surge in 2018, followed by decreases in both 2019 and 2020. Considering these results, this project sought to understand what factors may have contributed to the increase in 2018 and the decreases in 2019 and 2020.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
