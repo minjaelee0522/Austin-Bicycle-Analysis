@@ -141,7 +141,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>In 2018, the top four kiosk stations were located on the UT Austin campus or in the West University neighborhood (Fig. 9), the latter is an area near the university that is commonly known for student housing and amenities.</p>
+<p>In 2018, the top four kiosk stations were located on the UT Austin campus or in the West University neighborhood, the latter is an area near the university that is commonly known for student housing and amenities.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -173,7 +173,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li>Perform an inquiry into the downturn in UT student memberships since 2019. Example questions: How many UT students and staff have applied for the $12 per year membership? What percentage of the applications have been approved? How is the membership advertised?</li><li>Introduce seasonal promotions to increase ridership during off-months (Fig. 7). The months November, December, and January are great candidates. During these months, there can be periods of mild weather in Austin when biking could be potentially comfortable.</li><li>Introduce kiosk stations in areas that are densely populated by university students or near campuses. Even in 2019, which had an 84% drop (Fig. 6) in student membership ridership compared to 2018, three of the most popular kiosk stations were around a university campus (Fig. 10). For UT Austin, example neighborhoods would be Hyde Park and Hancock which are north of campus.</li></ul>
+<ul><li>Perform an inquiry into the downturn in UT student memberships since 2019. Example questions: How many UT students and staff have applied for the $12 per year membership? What percentage of the applications have been approved? How is the membership advertised?</li><li>Introduce seasonal promotions to increase ridership during off-months. The months November, December, and January are great candidates. During these months, there can be periods of mild weather in Austin when biking could be potentially comfortable.</li><li>Introduce kiosk stations in areas that are densely populated by university students or near campuses. Even in 2019, which had an 84% drop in student membership ridership compared to 2018, three of the most popular kiosk stations were around a university campus (Fig. 10). For UT Austin, example neighborhoods would be Hyde Park and Hancock which are north of campus.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
