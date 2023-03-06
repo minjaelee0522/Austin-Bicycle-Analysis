@@ -31,6 +31,14 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+<h2>MetroBike Infrastructure</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>TMetroBike has 76 kiosk stations with bicycle docks and an interactive screen throughout central Austin. Currently, its fleet  consists of around 702 bicycles, including both regular and electric bicycles. To rent a bike, a rider purchases a MetroBike pass.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
 <h2>Datasets</h2>
 <!-- /wp:heading -->
 
