@@ -101,7 +101,7 @@ Lastly, several Checkout Kiosk ID numbers were modified to ensure agreement with
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Moreover, in 2018, nine of the new kiosk stations were added on the University of Texas at Austin campus (informally known as UT Austin) and in the adjacent neighborhood of West University (Fig. 4). In Figure 4, the black circles are kiosk stations that remained the same between 2017 and 2018. New kiosk stations are indicated by a green circle and a “+” symbol. Removed kiosk stations are indicated by a red circle and a “-” symbol.</p>
+<p>Moreover, in 2018, nine of the new kiosk stations were added on the University of Texas at Austin campus (informally known as UT Austin) and in the adjacent neighborhood of West University. The black circles are kiosk stations that remained the same between 2017 and 2018. New kiosk stations are indicated by a green circle and a “+” symbol. Removed kiosk stations are indicated by a red circle and a “-” symbol.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
